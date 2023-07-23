@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/jhay-portfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/jhay-portfolio/static/js/main.e670c138.js",
+    "index.html": "/jhay-portfolio/index.html",
+    "main.e670c138.js.map": "/jhay-portfolio/static/js/main.e670c138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e670c138.js"
+  ]
+}
